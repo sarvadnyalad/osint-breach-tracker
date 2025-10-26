@@ -83,5 +83,29 @@ osint-breach-tracker/
 
 ---
 
+## 🖼️ Screenshots
+
+Below are sample screenshots from the demo run using the offline dataset (`acme.test`):
+
+### 1️⃣ Terminal Execution
+Shows the script running successfully and saving results.
+![Terminal Run](screenshots/terminal_run.png)
+
+### 2️⃣ Report Summary
+The main Markdown report generated from the investigation.
+![Report Summary](screenshots/report_summary.png)
+
+### 3️⃣ Exposure Table
+Displays the top exposures found during the simulated breach analysis.
+![Exposure Table](screenshots/exposure_table.png)
+
+### 4️⃣ CSV Output (Optional)
+Raw structured data showing exposed email records and breach details.
+![CSV Output](screenshots/csv_output.png)
+
+---
+
+---
+
 ## License
 MIT
