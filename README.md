@@ -108,7 +108,3 @@ Raw structured data showing exposed email records and breach details.
 
 ---
 
-## License
-MIT
-=======
->>>>>>> 41adb43361f15b029ad180ff4ba16bd25cd6d42d
