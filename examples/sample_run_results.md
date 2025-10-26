@@ -1,6 +1,6 @@
 # Data Breach & Credential Exposure – Findings
 
-Generated: `2025-10-26T17:31:43.358594Z`
+Generated: `2025-10-26T18:21:38.780491Z`
 
 - **Total exposed accounts:** 9
 - **Unique emails:** 9
