@@ -1,0 +1,88 @@
+{
+  "generated_at": "2025-10-26T17:31:43.358594Z",
+  "total_exposed_accounts": 9,
+  "unique_emails": 9,
+  "distinct_breaches": 7,
+  "risk_score": 4.67,
+  "risk_band": "High",
+  "breaches": [
+    {
+      "source": "NewSaaS",
+      "records": 2,
+      "unique_emails": 2,
+      "latest_breach_date": "2025-01-15",
+      "avg_severity": 5.0,
+      "risk_band": "High",
+      "compromised_data_top": [
+        "email; password; 2fa_backup_codes",
+        "email; password"
+      ]
+    },
+    {
+      "source": "Acme-Partner",
+      "records": 1,
+      "unique_emails": 1,
+      "latest_breach_date": "2024-08-03",
+      "avg_severity": 5.0,
+      "risk_band": "High",
+      "compromised_data_top": [
+        "email; password; name"
+      ]
+    },
+    {
+      "source": "PhotoApp",
+      "records": 1,
+      "unique_emails": 1,
+      "latest_breach_date": "2023-05-09",
+      "avg_severity": 5.0,
+      "risk_band": "High",
+      "compromised_data_top": [
+        "email; username; password_hash; dob"
+      ]
+    },
+    {
+      "source": "ShopLeak",
+      "records": 1,
+      "unique_emails": 1,
+      "latest_breach_date": "2021-02-10",
+      "avg_severity": 5.0,
+      "risk_band": "High",
+      "compromised_data_top": [
+        "email; password_hash; address"
+      ]
+    },
+    {
+      "source": "TravelDB",
+      "records": 1,
+      "unique_emails": 1,
+      "latest_breach_date": "2019-11-21",
+      "avg_severity": 5.0,
+      "risk_band": "High",
+      "compromised_data_top": [
+        "email; password; phone"
+      ]
+    },
+    {
+      "source": "DevPaste",
+      "records": 2,
+      "unique_emails": 2,
+      "latest_breach_date": "2022-07-19",
+      "avg_severity": 4.0,
+      "risk_band": "High",
+      "compromised_data_top": [
+        "email; username; password"
+      ]
+    },
+    {
+      "source": "OldForum",
+      "records": 1,
+      "unique_emails": 1,
+      "latest_breach_date": "2016-05-02",
+      "avg_severity": 4.0,
+      "risk_band": "High",
+      "compromised_data_top": [
+        "email; username; password"
+      ]
+    }
+  ]
+}

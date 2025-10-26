@@ -1,0 +1,10 @@
+email,source,breach_date,compromised_data,password_hash
+alice@acme.test,OldForum,2016-05-02,email; username; password,hash1
+bob@acme.test,TravelDB,2019-11-21,email; password; phone,hash2
+carol@acme.test,ShopLeak,2021-02-10,email; password_hash; address,hash3
+dave@acme.test,DevPaste,2022-07-19,email; username; password,hash4
+erin@acme.test,Acme-Partner,2024-08-03,email; password; name,hash5
+grace@acme.test,NewSaaS,2025-01-15,email; password; 2fa_backup_codes,hash7
+harry@acme.test,NewSaaS,2025-01-15,email; password,hash8
+ian@acme.test,PhotoApp,2023-05-09,email; username; password_hash; dob,hash9
+jane@acme.test,DevPaste,2022-07-19,email; username; password,hash10
