@@ -82,6 +82,3 @@ osint-breach-tracker/
 ```
 
 ---
-
-## License
-MIT
